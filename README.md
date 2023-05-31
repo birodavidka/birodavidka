@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **biro.david93@gmail.com**
 
-- 📄 Know about my experiences [http://www.linkedin.com/in/bighomiedavid"](http://www.linkedin.com/in/bighomiedavid")
+- 📄 Know about my experiences [http://www.linkedin.com/in/bighomiedavid](http://www.linkedin.com/in/bighomiedavid)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
