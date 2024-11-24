@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks and webdev in general**
-
-- 📫 How to reach me **biro.david93@gmail.com**
+- 🌱 I’m currently learning **Dunaújvárosi Egyetem**
 
 - 📄 Know about my experiences [http://www.linkedin.com/in/bighomiedavid](http://www.linkedin.com/in/bighomiedavid)
 
