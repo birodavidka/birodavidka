@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **University of Dunaújváros**
+- 🌱 I’m currently studying at **the University of Dunaújváros**
 
-- 📄 Know about my experiences [http://www.linkedin.com/in/bighomiedavid](http://www.linkedin.com/in/bighomiedavid)
+- 📄 Learn about my experience on [LinkedIn](http://www.linkedin.com/in/bighomiedavid)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
