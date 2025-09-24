@@ -1,60 +1,106 @@
-<h1 align="center">👋 Hi, I'm David</h1>
-<h3 align="center">Frontend & Cloud Developer from Hungary</h3>
+<div align="center">
+
+# 👋 Hi, I'm David
+### 🚀 Frontend & Cloud Developer from Hungary 🇭🇺
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 🚀 About Me
-- 🎓 Studying **Engineering Informatics** @ University of Dunaújváros  
-- 🛠️ Focus: **Next.js, AWS, Firebase, TypeScript, Python**  
-- 💡 Interested in **cloud-native apps & serverless**  
+## 🎯 About Me
+
+- 🎓 **Engineering Informatics** @ University of Dunaújváros  
+- ☁️ Building **cloud-native applications** with modern tech stacks
+- 🛠️ Passionate about **serverless architecture** & **TypeScript**
+- 🌱 Currently exploring **AWS** and **Firebase** ecosystems
+- 💡 Love creating **scalable web solutions**
 
 ---
 
-### 🛠 Tech Stack
-<p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-</p>
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+### Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birodavidka&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birodavidka&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=birodavidka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birodavidka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
 
 ---
 
-### 🔥 Streaks
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=birodavidka&theme=tokyonight&hide_border=true"/>
-</p>
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=birodavidka&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
 
 ---
 
-### 🌐 Connect
-<p align="center">
-  <a href="http://www.linkedin.com/in/bighomiedavid">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=birodavidka&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=birodavidka&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/bighomiedavid)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 *"Code is like humor. When you have to explain it, it's bad."* 
+
+![Profile Views](https://komarev.com/ghpvc/?username=birodavidka&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/birodavidka?style=for-the-badge&color=blue)](https://github.com/birodavidka)
+
+</div>
