@@ -25,7 +25,7 @@
 
 #### 🚀 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nextjs" />
 </p>
 
 #### ☁️ Cloud & Databases  
