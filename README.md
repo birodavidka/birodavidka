@@ -1,7 +1,14 @@
 <!-- GitHub Profile README for Dávid Biró -->
 
-<h1 align="center">Hi 👋, I'm Dávid Biró</h1>
-<h3 align="center">Engineer-IT student (SysAdmin specialization) | Full-Stack Dev Enthusiast</h3>
+<div align="center">
+
+# 🌈 Dávid Biró  
+
+### Engineer-IT Student (SysAdmin specialization) | Full-Stack Dev Enthusiast  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlign=70)
+
+</div>
 
 ---
 
@@ -18,7 +25,7 @@
 
 #### 🚀 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind" />
 </p>
 
 #### ☁️ Cloud & Databases  
@@ -36,9 +43,18 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birodavidka&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birodavidka&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=birodavidka&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birodavidka&theme=tokyonight" height="180" />
 </p>
+
+---
+
+### 📂 Featured Projects  
+
+- 🛒 [**demo-webshop**](https://github.com/birodavidka/demo-webshop) – CBD-themed e-commerce with Next.js  
+- 🔮 [**betpredictionai**](https://github.com/birodavidka/betpredictionai) – Firebase + AI Sports Predictions  
+- 📝 [**resume_template**](https://github.com/birodavidka/resume_template) – Next.js + Shadcn UI Resume Builder  
+- 🤖 [**telegram_bot_builder**](https://github.com/birodavidka/telegram_bot_builder) – Telegram Bot SaaS Builder  
 
 ---
 
@@ -58,4 +74,10 @@
 
 ---
 
-⭐️ From [birodavidka](https://github.com/birodavidka)
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+⭐️ From [birodavidka](https://github.com/birodavidka)  
+
+</div>
