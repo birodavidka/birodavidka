@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Dávid Biró -->
 
-<h1 align="center">Hi 👋, I'm Dávid Biró</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Engineer-IT student (SysAdmin specialization) | Full-Stack Dev Enthusiast</h3>
 
 ---
@@ -42,14 +42,7 @@
 
 ---
 
-### 📂 Featured Projects  
 
-- 🛒 [**demo-webshop**](https://github.com/birodavidka/demo-webshop) – CBD-themed e-commerce with Next.js  
-- 🔮 [**betpredictionai**](https://github.com/birodavidka/betpredictionai) – Firebase + AI Sports Predictions  
-- 📝 [**resume_template**](https://github.com/birodavidka/resume_template) – Next.js + Shadcn UI Resume Builder  
-- 🤖 [**telegram_bot_builder**](https://github.com/birodavidka/telegram_bot_builder) – Telegram Bot SaaS Builder  
-
----
 
 ### 📫 Connect with Me  
 
