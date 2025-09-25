@@ -1,8 +1,8 @@
-<!-- GitHub Profile README for Dávid Biró -->
+<!--  -->
 
 <div align="center">
 
-# Dávid Biró  
+# Hi👋 I'm David 
 
 ### Engineer-IT Student (SysAdmin specialization) | Full-Stack Dev Enthusiast  
 
