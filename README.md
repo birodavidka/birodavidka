@@ -69,7 +69,6 @@
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-⭐️ From [birodavidka](https://github.com/birodavidka)  
+ 
 
 </div>
