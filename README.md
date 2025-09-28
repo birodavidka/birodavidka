@@ -1,4 +1,5 @@
 <!--  -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlign=70)
 
 <div align="center">
 
@@ -6,7 +7,6 @@
 
 ### Engineer-IT Student (SysAdmin specialization) | Full-Stack Dev Enthusiast  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlign=70)
 
 </div>
 
